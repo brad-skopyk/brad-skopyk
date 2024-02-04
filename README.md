@@ -1,6 +1,8 @@
 # Brad Skopyk
 
-Associate Professor at Binghamton University (SUNY)
+Dept. of History  
+Associate Professor  
+Binghamton University (SUNY)  
 
 - 🔭 I’m currently working on geo-historical health & ecology in colonial Mexico
 - 🌱 I’m currently learning sql, php, javascript, python, & R
