@@ -1,3 +1,0 @@
-# Brad Skopyk
-
-Hello World!
