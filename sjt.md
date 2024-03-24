@@ -6,8 +6,10 @@ Brad Skopyk
 
 Assoc. Prof.  
 Department of History  
-Binghamton University  
-[bskopyk\@binghamton.edu](mailto:bskopyk@binghamton.edu)
+Binghamton University
+
+[bskopyk@binghamton.edu](mailto:bskopyk@binghamton.edu)
+
 [Online version of this draft paper](https://brad-skopyk.github.io/sjt.html)
 
 ## Abstract
