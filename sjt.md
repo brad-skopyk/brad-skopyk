@@ -16,6 +16,12 @@ Using the Códice de San Juan Teotihuacan (ca. 1557), an early-colonial indigeno
 
 ## Introduction
 
+<figure>
+    <img src="images/Acueducto_del_Padre_tembleque.jpg"
+         alt="Aquaduct of friar Tembleque">
+    <figcaption>The aquaduct was built between 1557 and 1575.</figcaption>
+</figure>
+
 ### Political context
 
 ### Religious context
