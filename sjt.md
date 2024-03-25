@@ -16,7 +16,11 @@ Using the Códice de San Juan Teotihuacan (ca. 1557), an early-colonial indigeno
 
 ## Introduction
 
-Thirty-six years after the Spanish conquest of the Aztec Empire, 
+Built between 1559 and 1575
+
+The indigenous peoples of Central Mexico
+
+Thirty-six years after the Spanish conquest of the Aztec empire, the Nahuatl-speaking villagers of San Juan Teotihuacan initiated a violent uprising 
 
 <figure>
     <img src="images/codice-sjt-adjust-small.jpg"
