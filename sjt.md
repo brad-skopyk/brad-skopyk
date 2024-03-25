@@ -19,9 +19,9 @@ Using the Códice de San Juan Teotihuacan (ca. 1557), an early-colonial indigeno
 Thirty-six years after the Spanish conquest of the Aztec Empire, 
 
 <figure>
-    <img src="images/codice-sjt-adjust.jpg"
+    <img src="images/codice-sjt-adjust-small.jpg"
          alt="Full reproduction of the Códice de San Juan Teotihuacan">
-    <figcaption>The Códice de San Juan Teotihuacan is held by the Biblioteca Nacional de Antropología e Historia and is dated to ca. 1559.</figcaption>
+    <figcaption>The Códice de San Juan Teotihuacan is held by the Biblioteca Nacional de Antropología e Historia and is dated to ca. 1559. <a href="images/codice-sjt-adjust.jpg">High Res Image</a></figcaption>
 </figure>
 
 <figure>
