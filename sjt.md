@@ -21,7 +21,11 @@ Thirty-six years after the Spanish conquest of the Aztec Empire,
 <figure>
     <img src="images/codice-sjt-adjust-small.jpg"
          alt="Full reproduction of the Códice de San Juan Teotihuacan">
+<<<<<<< HEAD
     <figcaption>The Códice de San Juan Teotihuacan is held by the Biblioteca Nacional de Antropología e Historia and is dated to ca. 1559. <a href="images/codice-sjt-adjust.jpg">High Res Image</a></figcaption>
+=======
+    <figcaption>The Códice de San Juan Teotihuacan is held by the Biblioteca Nacional de Antropología e Historia and is dated to ca. 1559. <a href:"images/codice-sjt-adjust.jpg">High Res Image</a></figcaption>
+>>>>>>> a1ddd98bb0a24792bb4e7cb869ac615d2adb21be
 </figure>
 
 <figure>
