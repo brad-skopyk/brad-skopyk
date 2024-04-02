@@ -1,6 +1,6 @@
 # Channelling Sacred Water in a Colonial Mexican Riverine: Native and Franciscan Waterscape Architects in the Indigenous Village of San Juan Teotihuacan, 1545 - 1580
 
-[Online version of this draft paper](https://brad-skopyk.github.io/sjt.html)
+[Online version of this draft paper](https://brad-skopyk.github.io/sjt.pdf)
 
 Brad Skopyk  
 Assoc. Professor  
