@@ -1,25 +1,36 @@
-<meta charset="utf-8" /><meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
-<title></title>
-<style type="text/css">#viewDiv {
-        position: relative;
-        padding: 0;
-        margin: 0;
-        height: 100%;
-        width: 100%;
-      }
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <title></title>
+  <style type="text/css">
+    #viewDiv {
+      position: relative;
+      padding: 0;
+      margin: 0;
+      height: 100%;
+      width: 100%;
+    }
 
     #timeSliderDiv {
       width: 300px;
     }
 
-      #titleDiv {
-        padding: 10px;
-        font-weight: 36;
-        text-align: center;
-max-width: 300px;
-      }
-</style>
-<link href="https://js.arcgis.com/4.24/esri/themes/light/main.css" rel="stylesheet" /><script src="https://js.arcgis.com/4.24/"></script><script>
+    #titleDiv {
+      padding: 10px;
+      font-weight: 36;
+      text-align: center;
+      max-width: 300px;
+    }
+  </style>
+  <link href="https://js.arcgis.com/4.24/esri/themes/light/main.css" rel="stylesheet" />
+  <script src="https://js.arcgis.com/4.24/"></script>
+</head>
+
+<body>
+
+  <script>
     require(["esri/views/MapView", "esri/WebMap", "esri/config", "esri/widgets/TimeSlider"], (MapView, WebMap, esriConfig, TimeSlider) => {
 
       esriConfig.portalUrl = "https://elcamaleon.binghamton.edu/portal";
@@ -49,12 +60,16 @@ max-width: 300px;
         }
       );
 
-        view.ui.add("titleDiv", "top-right");
-      
+      view.ui.add("titleDiv", "top-right");
+
     });
   </script>
-<div id="viewDiv">&nbsp;</div>
+  <div id="viewDiv">&nbsp;</div>
 
-<div id="titleText">Events aggregated by municipality. Filter by timeslider. See popups for events &amp; statistics.</div>
+  <div id="titleText">Events aggregated by municipality. Filter by timeslider. See popups for events &amp; statistics.
+  </div>
 
-<div id="timeSlider">&nbsp;</div>
+  <div id="timeSlider">&nbsp;</div>
+</body>
+
+</html>
