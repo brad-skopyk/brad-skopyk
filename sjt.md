@@ -68,7 +68,7 @@ Thirty-six years after the Spanish conquest of the Aztec empire, the Nahuatl-spe
 
 ### Climatic Context
 
- <iframe src="test.html" height="600" width="600" title="Aggregate events with timeslider"></iframe> 
+<iframe src="test.html" height="700" title="Aggregate events with timeslider"></iframe>
 
 ### The Códice de SJT
 
