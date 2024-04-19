@@ -14,7 +14,9 @@ Using the Códice de San Juan Teotihuacan (ca. 1557), an early-colonial indigeno
 
 ## Introduction
 
-The *Códice de San Juan Teotihuacan* (ca. 1559) is an early-colonial indigenous painted manuscript that tells the history of the construction of a church, monastery and associated hydrological infrastructure in the native village of San Juan Teotihuacan, located about fifty kilometers northeast of Mexico City. Although the codex is deteriorated and incomplete, it clearly recounts how, in 1557, friars of the Augustinian mendicant order had asserted their domain (*doctrina*) within the village, despite the clear local native preference for Franciscan tutelage.The codex depicts a wide variety of hardships that were suffered by the Teotihuacanos during the initial planning and early construction phases of the project, such as tribute payments, labor services, imprisonment, and physical assaults by Augustinian friars and regional magistrates. Local resistance continued for nearly two years, culminating in the near total abandonment of the town for ten months in 1558 and 1559 in order to deprive the unwanted Augustinians of sustenance and service. The success of the strategy is illustrated by triumphant images of two separate jailbreaks of native elite, visits to the Viceroy in Mexico City, and another to one of the highest judges in all of New Spain, and ultimately birth and marriage ceremonies at the new church site.
+The *Códice de San Juan Teotihuacan* (ca. 1559) is an early-colonial indigenous painted manuscript that depicts a wide variety of violent encounters between friars of the Augustinian mendicant order and the local indigenous people of the village of San Juan Teotihuacan, located about fifty kilometers northeast of Mexico City. In one image, a friar kicks a traditionally-clothed native laying on the ground; in another, a provincial magistrate wields a club, held high over the body of a native man on his knees. There are images of natives carrying beams and timbers, and others representing enumerated bundles and baskets of food, i.e. payments of tribute.
+
+tells the history of the construction of a church, monastery and associated hydrological infrastructure in the native village of San Juan Teotihuacan, located about fifty kilometers northeast of Mexico City. Although the codex is deteriorated and incomplete, it clearly recounts how, in 1557, friars of the Augustinian mendicant order had declared the village to be under their exclusive domain (i.e. their *doctrina*), a declaration that despite the clear local native preference for Franciscan tutelage. The codex depicts a wide variety of hardships that were suffered by the Teotihuacanos during the initial planning and early construction phases of the project, such as tribute payments, labor services, imprisonment, and physical assaults by Augustinian friars and regional magistrates. Local resistance continued for nearly two years, culminating in the near total abandonment of the town for ten months in 1558 and 1559 in order to deprive the unwanted Augustinians of sustenance and service. The success of the strategy is illustrated by triumphant images of two separate jailbreaks of native elite, visits to the Viceroy in Mexico City, and another to one of the highest judges in all of New Spain, and ultimately birth and marriage ceremonies at the new church site.
 
 The few extant interpretations of this uprising have left us with an almost entirely political and economic interpretation of events, focusing upon the corporal hardships of church construction, especially when led by Augustinian friars. This paper, however, takes a hydrological perspective, or more properly a riverine perspective, which integrates this event into a wider history of deliberate attempts by both local indigenous peoples and representatives of the church to channel water (both literally and metaphorically) through the visible and invisible, material and immaterial, living and nonliving, and profane and sacred. For both natives and friars, the riverine was a critical geography to (re)build an aqueous landscape that could mimic and model a divine oasis while also furnishing economic benefits from the effective management of soil and water.
 
@@ -40,7 +42,7 @@ In fact, large stone statues that evoked cosmological forces (called *teotl*) st
 
 The 
 
-Not everything had been (just forty-four years prior), a replacement (in some respects)  which had been largely lost or driven   spiritual the monastery and church buildings, along with the  and, importantly, the atrio, open chapel, complex waterworks  of
+Not everything had been (just forty-four years prior), a replacement (in some respects)  which had been largely lost or driven   spiritual the monastery and church buildings, along with the  and, importantly, the atrium, open chapel, complex waterworks  of
 
 ,  is located about fifty kilometers northwest of Mexico City. It was also built in at the southern edge of a large, shallow wetland, marked by hundreds of natural springs.
 
@@ -49,15 +51,15 @@ The indigenous peoples of Central Mexico
 Thirty-six years after the Spanish conquest of the Aztec empire, the Nahuatl-speaking villagers of San Juan Teotihuacan initiated a violent uprising
 
 <figure>
-    <img src="images/codice-sjt-adjust-small.jpg"
+    <img src="assets/images/codice-sjt-adjust-small.jpg"
          alt="Full reproduction of the Códice de San Juan Teotihuacan">
-    <figcaption>The Códice de San Juan Teotihuacan is held by the Biblioteca Nacional de Antropología e Historia and is dated to ca. 1559. <a href="images/codice-sjt-adjust.jpg">High Res Image</a></figcaption>
+    <figcaption>The Códice de San Juan Teotihuacan is held by the Biblioteca Nacional de Antropología e Historia and is dated to ca. 1559. <a href="assets/images/codice-sjt-adjust.jpg">High Res Image</a></figcaption>
 </figure>
 
 <figure>
-    <img src="images/Acueducto_del_Padre_tembleque.jpg"
+    <img src="assets/images/Acueducto_del_Padre_tembleque.jpg"
          alt="Aquaduct of friar Tembleque">
-    <figcaption>The aquaduct was built between 1557 and 1575.</figcaption>
+    <figcaption>The aqueduct was built between 1557 and 1575.</figcaption>
 </figure>
 
 ### Political context
@@ -67,3 +69,9 @@ Thirty-six years after the Spanish conquest of the Aztec empire, the Nahuatl-spe
 ### Climatic Context
 
 ### The Códice de SJT
+
+### Sources
+
+Johnson, Benjamin D. Pueblos within Pueblos Tlaxilacalli Communities in Acolhuacan, Mexico, ca. 1272-1692. Boulder: University Press of Colorado, 2017.
+
+Johnson, Benjamin Daniel. “Remaking the Hinterland: Commoners, Colonialism, and Social Order in Post-Conquest Texcoco and Teotihuacán, Mexico.” History. Dissertation, University of Chicago, 2011.
