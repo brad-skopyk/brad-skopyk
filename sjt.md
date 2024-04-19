@@ -38,9 +38,9 @@ The extracted stones were then reused to build religious and administrative buil
 
 In Teotihuacan, however, the great pyramids of the sun and moon, along with the hundreds of structures (and murals) along the two-mile-long avenue of the dead, were untouched. This incredible archaeological site that rose to prominence in the first six to seven centuries of the common era, was located just 1.5 kms from the town's administrative buildings.
 
-In fact, large stone statues that evoked cosmological forces (called *teotl*) still stood at the top of these pyramids as late as 1580. Because they were too heavy to carry away, resident Franciscan friars ordered that they be thrown down the steps of the pyramid. One can only , an event, with such wonderful cosmological symbolism, that was undoubtedly made into a powerful ceremony by the natives. Teotihuacan is generally 
+In fact, large stone statues that evoked cosmological forces (called *teotl*) still stood at the top of these pyramids as late as 1580. Because they were too heavy to carry away, resident Franciscan friars ordered that they be thrown down the steps of the pyramid. One can only , an event, with such wonderful cosmological symbolism, that was undoubtedly made into a powerful ceremony by the natives. Teotihuacan is generally
 
-The 
+The
 
 Not everything had been (just forty-four years prior), a replacement (in some respects)  which had been largely lost or driven   spiritual the monastery and church buildings, along with the  and, importantly, the atrium, open chapel, complex waterworks  of
 
