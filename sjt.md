@@ -72,6 +72,4 @@ Thirty-six years after the Spanish conquest of the Aztec empire, the Nahuatl-spe
 
 ### The Códice de SJT
 
-### Footnotes
-
-[*A bibliography is provided [here](https://brad-skopyk.github.io/sjt-sources).*]
+### Footnotes / [Bibliography](https://brad-skopyk.github.io/sjt-sources) (*biblio on new page*)
