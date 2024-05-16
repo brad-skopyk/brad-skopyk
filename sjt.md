@@ -72,8 +72,6 @@ Thirty-six years after the Spanish conquest of the Aztec empire, the Nahuatl-spe
 
 ### The Códice de SJT
 
-### Sources
+### Footnotes
 
-Johnson, Benjamin D. Pueblos within Pueblos Tlaxilacalli Communities in Acolhuacan, Mexico, ca. 1272-1692. Boulder: University Press of Colorado, 2017.
-
-Johnson, Benjamin Daniel. “Remaking the Hinterland: Commoners, Colonialism, and Social Order in Post-Conquest Texcoco and Teotihuacán, Mexico.” History. Dissertation, University of Chicago, 2011.
+[A bibliography is provided [here](https://brad-skopyk.github.io/sjt-sources).]
