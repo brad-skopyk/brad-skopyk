@@ -2,12 +2,6 @@
 
 [[Return to essay](https://brad-skopyk.github.io/sjt)]
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<title>Bibliography</title>
-</head>
 <body>
 <div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em;">
   <div class="csl-entry">Boone, Elizabeth Hill, Gary Urton, and Dumbarton Oaks. <i>Their Way of Writing: Scripts, Signs, and Pictographies in Pre-Columbian America</i>. Dumbarton Oaks Pre-Columbian Symposia and Colloquia. Washington, D.C: Dumbarton Oaks Research Library and Collection, 2011.</div>

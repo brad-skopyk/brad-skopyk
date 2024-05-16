@@ -74,4 +74,4 @@ Thirty-six years after the Spanish conquest of the Aztec empire, the Nahuatl-spe
 
 ### Footnotes
 
-[A bibliography is provided [here](https://brad-skopyk.github.io/sjt-sources).]
+[*A bibliography is provided [here](https://brad-skopyk.github.io/sjt-sources).*]
